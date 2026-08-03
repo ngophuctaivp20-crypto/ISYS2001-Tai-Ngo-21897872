@@ -94,38 +94,19 @@
       "cell_type": "code",
       "metadata": {
         "id": "2PVLYN9N6KCb",
-        "outputId": "7107d383-6eab-4c87-ee96-575df38a7902",
+        "outputId": "6597896e-12d0-4153-d8a9-196128fd6adc",
         "colab": {
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 5,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
           "name": "stdout",
           "text": [
             "Expense Classifier — type 'done' when finished\n",
-            "\n",
-            "Enter expense category (e.g. rent, electricity, groceries, uber, loan, netflix): 500\n",
-            "⚠️ That looks like a number, not a category name. Please enter a category like 'rent' or 'food'.\n",
-            "\n",
-            "Enter expense category (e.g. rent, electricity, groceries, uber, loan, netflix): electricity\n",
-            "Enter amount ($): 600\n",
-            "→ Category: Housing         Level: Medium\n",
-            "\n",
-            "Enter expense category (e.g. rent, electricity, groceries, uber, loan, netflix): transportation\n",
-            "Enter amount ($): 30\n",
-            "→ Category: Transport       Level: Low\n",
-            "\n",
-            "Enter expense category (e.g. rent, electricity, groceries, uber, loan, netflix): done\n",
-            "\n",
-            "Finished classifying expenses.\n",
-            "Summary of spending by category:\n",
-            "  Housing         $600.00\n",
-            "  Transport       $30.00\n",
-            "\n",
-            "Grand Total: $630.00\n"
+            "\n"
           ]
         }
       ],
